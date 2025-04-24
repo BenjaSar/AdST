@@ -1,0 +1,20 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Jupyter Notebook temporary files
+~$*
+*.swp
+*.bak
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter Notebook metadata (optional)
+.jupyter/
+
+# Ignore the guide files
+/examples
