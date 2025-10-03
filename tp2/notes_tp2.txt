@@ -1,0 +1,51 @@
+Marcadores guardados (muestras):
+1: 5000 - 15900
+2: 5000 - 20300
+3: 5000 - 21100
+4: 5000 - 24500
+5: 5000 - 27300
+6: 5000 - 29000
+7: 5000 - 30400
+8: 5000 - 32600
+9: 5000 - 33100
+10: 5000 - 33900
+11: 5000 - 34400
+
+
+
+1: 14100 - 15500  /e
+2: 14300 - 15600
+3: 17300 - 18500   /t
+4: 20600 - 21200   /o
+5: 22300 - 23600   /c
+6: 23400 - 24400   /ca
+9: 28500 - 29400   /t
+10: 29300 - 30500  /i
+11: 32300 - 33400   /c
+12: 33800 - 35000   /o
+
+Marcadores guardados (muestras):
+1: 5000 - 15500
+2: 14300 - 15600
+3: 16000 - 18400
+4: 17300 - 18500
+5: 20600 - 21200
+6: 22300 - 23600
+7: 23400 - 24400
+8: 24700 - 26100
+9: 28500 - 29400
+10: 29300 - 30500
+11: 32300 - 33400
+12: 33800 - 35000
+
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.specgram.html
+
+Punto 9
+nFFT largo de la ventana
+fs como escala la ventana de tiempo
+window: le pasamos la Hamming
+noverlap : calcular el solapamiento (l-delta)
+
+https://www.youtube.com/watch?v=G1CKlWXOAYE
+
+
