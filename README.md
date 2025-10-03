@@ -49,13 +49,13 @@ Parameter ranges:
 #### Requirements
 The analysis requires the following Python packages:
 
-pandas
-numpy
-matplotlib
-seaborn
-statsmodels
-pmdarima
-scikit-learn
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* statsmodels
+* pmdarima
+* scikit-learn
 
 ##### Authors:
 - Juan Ignacio Ribet
