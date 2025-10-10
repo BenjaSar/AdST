@@ -58,7 +58,6 @@ The analysis requires the following Python packages:
 * scikit-learn
 
 ##### Authors:
-- Juan Ignacio Ribet
 - FS
 
 ##### License
